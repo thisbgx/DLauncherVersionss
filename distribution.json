@@ -1,0 +1,41 @@
+{
+    "version": "1.8.8",
+    "discord": {
+        "clientId": "12334567890123456789",
+        "smallImageText": "Wersja 1.8.8",
+        "smallImageKey": "seal-circle"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "#",
+    "servers": [
+        {
+            "id": "Wersja_1_8_8",
+            "name": "Wersja 1.8.8",
+            "description": "Czysta kompilacja gry Minecraft na wersji 1.8.8.",
+            "icon": "https://i.imgur.com/LE7fHzo.png",
+            "version": "1.8.8",
+            "address": "#",
+            "minecraftVersion": "1.8.8",
+            "discord": {
+                "shortId": "Wersja_1_8_8",
+                "largeImageText": "Wersja 1.8.8",
+                "largeImageKey": "vanilla_1_8_8"
+            },
+            "mainServer": false,
+            "autoconnect": false,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.8.8-11.15.0.1655",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 3527472,
+                        "MD5": "90734a5a713e24902d24c45c15caa42c",
+                        "url": "https://www115.zippyshare.com/d/ErP1COxY/13629/forge-1.8.8-11.15.0.1655-universal.jar"
+                    },
+            ]
+        }
+    ]
+}
