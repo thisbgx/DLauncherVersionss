@@ -35,7 +35,17 @@
                         "MD5": "90734a5a713e24902d24c45c15caa42c",
                         "url": "https://www115.zippyshare.com/d/ErP1COxY/13629/forge-1.8.8-11.15.0.1655-universal.jar"
                     },
-            ]
+                    {
+                    "id": "optifine:launchwrapper-of:2.1",
+                    "name": "Launchwrapper",
+                    "type": "Library",
+                    "artifact": {
+                        "size": 15638,
+                        "MD5": "df32100e0d67fd1a7133153c976edbcf",
+                        "url": "https://ChickenDevLab.github.io/NexusLauncher/data/libs/optifine/launchwrapper-of/2.1/launchwrapper.jar"
+                    }
+                },
+                }]
         }
     ]
 }
