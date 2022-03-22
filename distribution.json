@@ -9,6 +9,7 @@
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
     "rss": "#",
+    
     "servers": [
         {
             "id": "Wersja_1_8_8",
@@ -36,16 +37,16 @@
                     },
                     "subModules": [
                         {
-                        "id": "net.minecraft:launchwrapper:1.12",
-                        "name": "Launchwrapper",
-                        "type": "Library",
-                    "   artifact": {
-                        "size": 32999,
-                        "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
-                    }
+                            "id": "net.minecraft:launchwrapper:1.12",
+                            "name": "Launchwrapper",
+                            "type": "Library",
+                            "artifact": {
+                            "size": 32999,
+                            "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                            }
+                        }
                     ]
-                },
-                }]
+                }
         }
     ]
 }
