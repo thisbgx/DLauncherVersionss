@@ -34,14 +34,16 @@
                         "size": 3527472,
                         "url": "https://www115.zippyshare.com/d/ErP1COxY/13629/forge-1.8.8-11.15.0.1655-universal.jar"
                     },
-                    {
-                    "id": "net.minecraft:launchwrapper:1.12",
-                    "name": "Launchwrapper",
-                    "type": "Library",
-                    "artifact": {
+                    "subModules": [
+                        {
+                        "id": "net.minecraft:launchwrapper:1.12",
+                        "name": "Launchwrapper",
+                        "type": "Library",
+                    "   artifact": {
                         "size": 32999,
                         "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
                     }
+                    ]
                 },
                 }]
         }
